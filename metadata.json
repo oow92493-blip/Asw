@@ -1,0 +1,6 @@
+{
+  "name": "Game Booster VIP",
+  "description": "VIP Game Booster & Gaming Performance Optimizer with real-time HUD telemetry, GFX tools, latency stabilizer, and game launcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
